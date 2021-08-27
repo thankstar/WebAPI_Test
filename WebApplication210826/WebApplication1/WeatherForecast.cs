@@ -17,6 +17,6 @@ namespace WebApplication1
 	    public string Test3 { get; set; }
 	    public string Test5 { get; set; }
         public string Test6 { get; set; }
-        public string Test7 { get; set; }
+        public string Test77 { get; set; }
     }
 }
