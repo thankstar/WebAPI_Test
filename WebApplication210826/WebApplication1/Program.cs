@@ -9,6 +9,7 @@ using System.Threading.Tasks;
 
 namespace WebApplication1
 {
+    //±‰ª˘≤‚ ‘≤‚ ‘≤‚ ‘01
     public class Program
     {
         public static void Main(string[] args)
